@@ -1,0 +1,58 @@
+body{
+	background-image: url("fondo.png");
+}
+
+h1{
+	color: blue;
+	font-style: italic;
+	font-size: 50px;
+}
+
+h2{
+	color: red;
+	font-size: 35px;
+}
+
+h3{
+	color: blue;
+	font-size: 30px;
+	text-decoration: underline;
+	font-family: arial, verdana, sans-serif;
+	font-weight: normal;
+}
+
+h4{
+	color: blue;
+	font-size: 30px;
+	text-decoration: underline;
+	font-family: arial, verdana, sans-serif;
+	font-weight: normal;
+}
+
+h5{
+	color: blue;
+	font-size: 30px;
+	text-decoration: underline;
+	font-family: arial, verdana, sans-serif;
+	font-weight: normal;
+}
+#f1 {
+	float: left;
+	width: 300px;
+}
+a:link {
+	font-size: 30px;
+	color:rgb(255, 0, 0);
+}
+
+a:visited {
+	color: rgb(151, 22, 125);
+}
+
+a:active {
+	background-color: rgb(16, 0, 245);
+}
+
+u{
+	font-size: 20px;
+}

@@ -1,0 +1,82 @@
+header{
+    background-color: rgb(75, 74, 74);
+    color: white;
+    border-radius: 10px;
+    margin: 5px;
+    width: 81%;
+    height: 70px;
+}
+
+nav{
+    background-color: rgb(75, 74, 74);
+    color: white;
+    border-radius: 10px;
+    width: 15%;
+    height: 400px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+article{
+    background-color: rgb(75, 74, 74);
+    color: white;
+    border-radius: 10px;
+    width: 40%;
+    height: 400px;
+    float: left;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.sec{
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+    margin-top: 2%;
+    padding: 14%;
+}
+
+aside{
+    background-color: rgb(75, 74, 74);
+    color: white;
+    border-radius: 10px;
+    width: 15%;
+    height: 400px;
+    float: left;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.fig{
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+    margin-top: 2%;
+    padding: 12%;
+}
+
+.sec2{
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+    margin-top: 2%;
+    padding: 12%;
+    border-radius: 15px;
+    height: 50%;
+}
+
+footer{
+    background-color: rgb(75, 74, 74);
+    color: white;
+    border-radius: 10px;
+    clear: left;
+    width: 81%;
+    height: 70px;
+}
